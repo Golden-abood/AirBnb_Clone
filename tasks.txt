@@ -1,0 +1,15 @@
+install : 
+    => Nuxt : Done 
+    => Shadcn : 
+    => Lucia : 
+    => Prisma : 
+Authintication : 
+
+Ui  : 
+    => Layout : 
+        => NavBar : 
+
+
+
+To Search : 
+    => <NuxtRouteAnnouncer />
